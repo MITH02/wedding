@@ -1,0 +1,7 @@
+{
+  "name": "vaibhav-apurva-wedding",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The wedding invitation of Vaibhav & Apurva — 9–10 December 2026, Nagpur",
+  "scripts": { "dev": "node server.mjs", "start": "node server.mjs", "build": "node build.mjs", "check": "node --check app.js && node --check theme.js && node --check music.js && node --check server.mjs && node --check build.mjs", "test": "node build.mjs && node verify.mjs" }
+}

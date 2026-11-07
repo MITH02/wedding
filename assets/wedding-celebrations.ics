@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ahuja Family//Vaibhav and Apurva Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vaibhav & Apurva - Wedding Celebrations
+BEGIN:VEVENT
+UID:20261209-haldi-vaibhav-apurva@wedding-invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261209T073000Z
+SUMMARY:Vaibhav & Apurva - Haldi
+LOCATION:Hotel Ashoka Imperial & Banquet\, Opp. UCO Bank\, Somalwada\, Mani
+ sh Nagar\, Nagpur
+DESCRIPTION:Join the Ahuja family for the Haldi celebration. 1:00 PM IST.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-sangeet-vaibhav-apurva@wedding-invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261209T140000Z
+SUMMARY:Vaibhav & Apurva - Sangeet
+LOCATION:Hotel Ashoka Imperial & Banquet\, Opp. UCO Bank\, Somalwada\, Mani
+ sh Nagar\, Nagpur
+DESCRIPTION:An evening of music and celebration. 7:30 PM IST.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-dikh-vaibhav-apurva@wedding-invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261210T043000Z
+SUMMARY:Vaibhav & Apurva - Dikh
+LOCATION:Shubhaarambh Banquet Hall\, Opp. Haldiram\, Besa Pipla Road\, Nagp
+ ur
+DESCRIPTION:Join us for Dikh at 10:00 AM IST.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-wedding-vaibhav-apurva@wedding-invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261210T070000Z
+SUMMARY:Vaibhav & Apurva - Wedding Ceremony
+LOCATION:Shubhaarambh Banquet Hall\, Opp. Haldiram\, Besa Pipla Road\, Nagp
+ ur
+DESCRIPTION:With love and blessings\, celebrate our wedding. 12:30 PM IST.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-lunch-vaibhav-apurva@wedding-invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261210T073000Z
+DTEND:20261210T103000Z
+SUMMARY:Vaibhav & Apurva - Wedding Lunch
+LOCATION:Shubhaarambh Banquet Hall\, Opp. Haldiram\, Besa Pipla Road\, Nagp
+ ur
+DESCRIPTION:Celebrate with the newlyweds over lunch. 1:00 PM to 4:00 PM IST
+ .
+END:VEVENT
+END:VCALENDAR

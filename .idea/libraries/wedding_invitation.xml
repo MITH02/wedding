@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wedding-invitation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wedding-invitation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
